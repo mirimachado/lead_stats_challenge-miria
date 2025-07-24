@@ -55,8 +55,8 @@ Each task in the system includes rich metadata for real-world scenarios:
 | `id`             | UUID        | Unique task identifier                                 |
 | `title`          | string      | Short title of the task                                |
 | `description`    | string      | Detailed description                                   |
-| `priority`       | enum        | `LOW`, `MEDIUM`, or `HIGH`                             |
-| `status`         | enum        | `TODO`, `IN_PROGRESS`, `DONE`                          |
+| `priority`       | enum/string | `LOW`, `MEDIUM`, or `HIGH`                             |
+| `status`         | enum/string | `TODO`, `IN_PROGRESS`, `DONE`                          |
 | `createdAt`      | datetime    | Date of task creation                                  |
 | `dueDate`        | datetime    | Optional deadline                                      |
 | `assignedTo`     | string      | User or team responsible                               |
