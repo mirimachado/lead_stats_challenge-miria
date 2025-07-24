@@ -62,8 +62,6 @@ Each task in the system includes rich metadata for real-world scenarios:
 | `assignedTo`     | string      | User or team responsible                               |
 | `tags`           | string[]    | Array of labels/tags                                   |
 | `estimatedHours` | number      | Expected effort in hours                               |
-| `isRecurring`    | boolean     | Whether this task repeats                              |
-| `recurrenceRule` | string/null | If recurring, format like `FREQ=WEEKLY;BYDAY=MO,WE,FR` |
 
 ---
 
