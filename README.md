@@ -1,8 +1,8 @@
 # 📋 Task Management Dashboard — Code Challenge
 
-This project is a **Task Management System** built with **Vue 3 + Tailwind CSS v3.4** for the frontend and **NestJS + Drizzle ORM** for the backend. The system provides a comprehensive **CRUD interface for managing tasks**, with real-time updates, filtering, and visual analytics.
+This project is a **Task Management System** built with **Vue 3 + Tailwind CSS v3.4** on the frontend and **NestJS + Drizzle ORM** on the backend. The goal is to deliver a fully functional **CRUD interface for managing tasks**, including real-time updates, filtering, and visual analytics like charts and tables.
 
----
+> 🔧 Fork this repository to get started and begin building your solution.
 
 ## 🚀 Challenge Goal
 
