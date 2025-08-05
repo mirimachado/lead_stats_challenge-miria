@@ -1,11 +1,11 @@
 # Backend - Task Management System
 
-## Pré-requisitos
+## Requirements
 
 - Node.js v18+
-- Docker e Docker Compose
+- Docker and Docker Compose
 
-## Instalação
+## Installation
 
 ```bash
 cd backend
@@ -21,4 +21,4 @@ npx drizzle-kit push
 
 npm run start:dev
 
-A API estará disponível em http://localhost:3000/tasks
+The API will be available on http://localhost:3000/tasks
