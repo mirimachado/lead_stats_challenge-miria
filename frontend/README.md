@@ -14,6 +14,8 @@
 cd frontend
 npm install
 
+(node v20)
+
 Run the project
 
 npm run dev
