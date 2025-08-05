@@ -11,6 +11,7 @@
 cd backend
 npm install
 
+(node v20)
 
 cd ../postgres
 docker compose up -d
