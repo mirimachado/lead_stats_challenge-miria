@@ -109,13 +109,13 @@
               icon="pi pi-pencil"
               class="p-button-rounded p-button-text p-button-sm"
               @click="editTask(data)"
-              v-tooltip="'Editar'"
+              v-tooltip="'Edit'"
             />
             <Button
               icon="pi pi-trash"
               class="p-button-rounded p-button-text p-button-sm p-button-danger"
               @click="confirmDelete(data)"
-              v-tooltip="'Excluir'"
+              v-tooltip="'Delete'"
             />
           </div>
         </template>
