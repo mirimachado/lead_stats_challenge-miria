@@ -1,3 +1,23 @@
-# Front-end
+# Frontend - Task Management Dashboard
 
-Add instructions on how to execute it here
+## Tecnologias
+
+- Vue 3
+- Tailwind CSS
+- PrimeVue
+- Vue Query
+- Chart.js
+
+## Instalação
+
+```bash
+cd frontend
+npm install
+
+Rodar o projeto
+
+npm run dev
+
+Acesse em
+
+http://localhost:5173
