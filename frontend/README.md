@@ -1,6 +1,6 @@
 # Frontend - Task Management Dashboard
 
-## Tecnologias
+## Technologies
 
 - Vue 3
 - Tailwind CSS
@@ -8,16 +8,16 @@
 - Vue Query
 - Chart.js
 
-## Instalação
+## Installation
 
 ```bash
 cd frontend
 npm install
 
-Rodar o projeto
+Run the project
 
 npm run dev
 
-Acesse em
+Access:
 
 http://localhost:5173
